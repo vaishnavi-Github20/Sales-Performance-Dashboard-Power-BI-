@@ -71,5 +71,5 @@ This project can be used as a **portfolio sample** or a **freelance showcase** t
 [LinkedIn](https://www.linkedin.com/in/vaishnavi-ganeshkar) | vaishnaviganeshkar15@gmail.com  
 
 ---
-## 📂 File Structure
+
 
